@@ -56,6 +56,14 @@ This project analyzes weather data using Python and presents insights through vi
 * Insights from dataset
 * Dashboard report (PDF + online link)
 
+
+## 📊 Weather Analysis Visualizations
+
+<p align="center">
+  <img src="images/pressure over time.png" width="45%" />
+  <img src="images/temperature over time.png" width="45%" />
+</p>
+
 ## 🔮 Future Improvements
 
 * Add real-time weather API integration
