@@ -60,8 +60,8 @@ This project analyzes weather data using Python and presents insights through vi
 ## 📊 Weather Analysis Visualizations
 
 <p align="center">
-  <img src="images/pressure over time.png" width="45%" />
-  <img src="images/temperature over time.png" width="45%" />
+  <img src="images/pressure over time.jpeg" width="45%" />
+  <img src="images/temperature over time.jpeg" width="45%" />
 </p>
 
 ## 🔮 Future Improvements
